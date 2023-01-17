@@ -1,0 +1,10 @@
+{
+    "firstName":"Uvindu",
+    "lastName":"Perera",
+    "address":"Minuwangoda",
+    "telephone":"0776738730",
+    "postalCode":"11390",
+    "nic":"199800500645"
+
+
+}
